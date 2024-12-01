@@ -54,5 +54,5 @@ func part2() int {
 ```
 
 ```text
-I think I should right test functions and better function names!
+I think I should write test functions and better function names!
 ```
