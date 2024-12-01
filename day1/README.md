@@ -2,13 +2,14 @@
 
 ## Example Input
 
+```text
 3   4
 4   3
 2   5
 1   3
 3   9
 3   3
-
+```
 ## Part 1
 
 The first part was to find the sum of  absolute difference between
